@@ -1,0 +1,10 @@
+{
+    "dataset": "balanced_subset_without_title_less_than_1024_double_comment",
+
+    "model": "t5",
+    
+    "token_sequence_length": 1024,
+
+    "batch_size": 2,
+    "num_train_epochs": 30
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "balanced_subset_without_title_less_than_1024_single_comment",
+
+    "model": "bart",
+    
+    "token_sequence_length": 1024,
+
+    "learning_rate": 2e-5,
+    "batch_size": 2,
+    "num_train_epochs": 30
+}
